@@ -5,4 +5,4 @@ group :jekyll_plugins do
   gem "octopress-autoprefixer"
 end
 
-ruby "2.0"
+ruby "2.4.0"
