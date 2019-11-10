@@ -1,11 +1,11 @@
 ---
+title: Four Dollar Toast
+date: 2017-02-09 00:00:00 Z
 layout: post
-title: "Four Dollar Toast"
-date: 2017-02-09
-categories: 
 description: 
-image: /assets/images/placeholders/placeholder-6.jpg
+image: "/assets/images/placeholders/placeholder-6.jpg"
 ---
+
 Brooklyn dreamcatcher four dollar toast, distillery tousled brunch affogato disrupt. Blog pour-over keffiyeh, next level tilde enamel pin microdosing snackwave gochujang echo park truffaut. +1 venmo austin, bitters before they sold out drinking vinegar kogi copper mug viral meditation umami distillery meggings deep v. IPhone succulents tousled irony, chillwave artisan quinoa subway tile single-origin coffee asymmetrical deep v. Cliche craft beer aesthetic, enamel pin pitchfork small batch slow-carb swag selfies quinoa pork belly. Normcore health goth neutra yr, single-origin coffee kinfolk hella aesthetic tousled succulents scenester waistcoat la croix. Church-key edison bulb butcher blog, fashion axe aesthetic poke yr master cleanse vexillologist.
 
 <ul>

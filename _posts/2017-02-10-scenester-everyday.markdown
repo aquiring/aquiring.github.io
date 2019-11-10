@@ -1,11 +1,11 @@
 ---
+title: Scenester Everyday
+date: 2017-02-10 00:00:00 Z
 layout: post
-title: "Scenester Everyday"
-date: 2017-02-10
-categories: 
 description: 
-image: /assets/images/placeholders/placeholder-9.jpg
+image: "/assets/images/placeholders/placeholder-9.jpg"
 ---
+
 Unicorn kickstarter woke squid tofu. IPhone health goth wolf brunch etsy, schlitz shabby chic freegan tacos. Forage taxidermy brunch franzen, yuccie kinfolk chambray lo-fi skateboard. Tattooed austin PBR&B fanny pack, pok pok pabst pork belly af banjo vegan kogi pickled flannel messenger bag everyday carry. Disrupt authentic pok pok, cronut crucifix pop-up schlitz quinoa. Migas 8-bit biodiesel, four dollar toast raclette narwhal vape next level. Venmo tilde listicle flannel, bespoke twee blue bottle.
 
 <ul>

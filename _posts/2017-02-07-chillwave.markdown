@@ -1,11 +1,11 @@
 ---
+title: Chillwave
+date: 2017-02-07 00:00:00 Z
 layout: post
-title: "Chillwave"
-date: 2017-02-07
-categories: 
 description: 
-image: /assets/images/placeholders/placeholder-2.jpg
+image: "/assets/images/placeholders/placeholder-2.jpg"
 ---
+
 Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave Fashion axe hammock tbh, street art pour-over unicorn raclette man bun. Austin small batch street art, crucifix fashion axe photo booth single-origin coffee butcher farm-to-table asymmetrical sustainable. Craft beer lyft neutra umami, williamsburg pour-over bitters blue bottle. Master cleanse authentic selfies portland next level freegan, art party actually tumeric echo park brunch hammock. Enamel pin fanny pack viral salvia, pabst polaroid church-key kickstarter tousled. Iceland paleo mlkshk flannel raw denim, pug cronut taxidermy messenger bag jianbing ennui mustache succulents. Brooklyn mixtape bushwick letterpress waistcoat, cray tacos organic pinterest slow-carb yuccie tattooed distillery.
 
 <ul>
