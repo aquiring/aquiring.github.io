@@ -1,6 +1,0 @@
----
-title: testpost
-date: 2019-11-10 01:05:00 Z
----
-
-This is some test content.
