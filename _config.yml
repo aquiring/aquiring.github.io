@@ -1,6 +1,6 @@
 ---
-title: Cartwheel
-timezone: UTC
+title: Lilith Rose Energy
+timezone: America/New_York
 collections:
   posts:
     title: Posts
@@ -8,15 +8,15 @@ collections:
   uploads:
     title: Uploads
     output: true
-baseurl: ''
+baseurl: 
 color_alpha: feeaeb
 color_beta: '05009e'
 google_analytics: UA—XXXXXXXX-X
 instagram_key: 
 instagram_caption: true
 description: 
-url: ''
-email: 
+url: 
+email: lilithroseenergy@gmail.com
 twitter_username: 
 default_img: 
 social:
