@@ -20,7 +20,7 @@ email:
 twitter_username: 
 default_img: 
 social:
-  instagram: lilith_rose_energy
+  instagram: https://www.instagram.com/lilith_rose_energy/
 exclude:
 - node_modules
 - gulpfile.js
