@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "XOXO"
-date: 2017-02-06
+title: XOXO
+date: 2017-02-06 00:00:00 Z
 tags:
-  - Scenester
-  - Selfies 
+- Scenester
+- Selfies
+layout: post
 description: 
-image: /assets/images/placeholders/placeholder-7.jpg
+image: "/assets/images/placeholders/placeholder-7.jpg"
 ---
+
 Keytar pitchfork poutine, meggings kickstarter photo booth venmo austin schlitz iPhone cardigan neutra kinfolk aesthetic wolf. Gochujang neutra la croix, seitan glossier unicorn yuccie wayfarers deep v 90's paleo shoreditch. Green juice selfies health goth retro +1 food truck letterpress roof party yuccie. Flexitarian tumeric hexagon skateboard, chillwave truffaut art party migas tbh tumblr vegan tousled. Venmo viral leggings food truck trust fund flannel. Af small batch poke, trust fund live-edge vexillologist banh mi tofu photo booth tattooed selvage man braid. Cray cold-pressed leggings organic, coloring book waistcoat williamsburg authentic selvage.
 
 <ul>

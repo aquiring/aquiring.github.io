@@ -1,37 +1,37 @@
-# Site settings
-baseurl: "" 
-
-# Color settings (Hex value without #)
+---
+title: Cartwheel
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+baseurl: ''
 color_alpha: feeaeb
-color_beta: 05009e
-
-# Google Analytics
+color_beta: '05009e'
 google_analytics: UA—XXXXXXXX-X
-
-# Instagram API
 instagram_key: 
 instagram_caption: true
-
-# SEO settings
-title: Cartwheel
 description: 
-url: ""
-email:
+url: ''
+email: 
 twitter_username: 
 default_img: 
-
-# Profile settings
 social:
   twitter: 
-
-# Build settings
-exclude: ["node_modules", "gulpfile.js", "assets/js/app.js", "README.md", "Gemfile", "Gemfile.lock"]
+exclude:
+- node_modules
+- gulpfile.js
+- assets/js/app.js
+- README.md
+- Gemfile
+- Gemfile.lock
 markdown: kramdown
-permalink: /:year/:month/:day/:title/
-
-# Sass
+permalink: "/:year/:month/:day/:title/"
 sass:
   style: compressed
-
-# Gems
-gems: [jekyll-sitemap, octopress-autoprefixer]
+gems:
+- jekyll-sitemap
+- octopress-autoprefixer
