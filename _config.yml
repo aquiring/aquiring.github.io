@@ -1,5 +1,5 @@
 # Site settings
-baseurl: "" 
+baseurl: "aquiring.github.io" 
 
 # Color settings (Hex value without #)
 color_alpha: feeaeb
@@ -13,16 +13,16 @@ instagram_key:
 instagram_caption: true
 
 # SEO settings
-title: Cartwheel
+title: Lilith Rose Energy
 description: 
 url: ""
-email:
+email: lilithroseenergy@gmail.com
 twitter_username: 
 default_img: 
 
 # Profile settings
 social:
-  twitter: 
+  instagram: lilith_rose_energy
 
 # Build settings
 exclude: ["node_modules", "gulpfile.js", "assets/js/app.js", "README.md", "Gemfile", "Gemfile.lock"]
